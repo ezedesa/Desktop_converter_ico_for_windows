@@ -4,6 +4,8 @@ Converter for Windows
 
 ![image program](image_to_ico.jpg)
 
+![image program](image_to_ico_ok.jpg)
+
 Note: 
 
 -This is an executable file on Windows
