@@ -1,5 +1,5 @@
-# Python_GUI_img_to_ico
-Converter for Windows
+# Create with Python
+A simple converter for Windows, executable.
 
 
 ![image program](image_to_ico.jpg)
